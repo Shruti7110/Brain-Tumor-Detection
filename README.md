@@ -9,5 +9,7 @@ This project detects brain tumors in MRI scans using **YOLOv10** (You Only Look 
 - **Gradio UI** for user-friendly predictions
 - **Transfer learning** from COCO-pretrained weights
 
-## 📂 Dataset
-Dataset sourced from Roboflow in YOLOv8 format (compatible with YOLOv10):
+## 📂 Output Overview
+![image](https://github.com/user-attachments/assets/e1abc68f-5417-4e76-8f45-b9b1f2141aa5)
+
+
